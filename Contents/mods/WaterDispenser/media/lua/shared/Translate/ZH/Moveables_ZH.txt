@@ -1,4 +1,4 @@
-Moveables_EN = {
+Moveables_ZH = {
     Full_Water_Dispenser = "饮水机",
     Empty_Water_Dispenser = "饮水机",
 }
