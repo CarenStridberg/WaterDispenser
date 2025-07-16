@@ -1,4 +1,4 @@
-ItemName_EN = {
+ItemName_ZH = {
     ItemName_WaterDispenser.WaterJugEmpty = "空水壶",
     ItemName_WaterDispenser.WaterJugWaterFull = "装有水的水壶",
     ItemName_WaterDispenser.WaterJugPetrolFull = "装有汽油的水壶",
